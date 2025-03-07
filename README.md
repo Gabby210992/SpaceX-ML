@@ -1,2 +1,2 @@
 # SpaceX-ML
-Coursera Capstone Project
+## Application of Data Science in Space Science
